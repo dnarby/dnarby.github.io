@@ -8,7 +8,7 @@ layout: feed
 	<link href="http://dnarby.github.io/blog/atom.xml" rel="self"/>
 	<link href="http://dnarby.github.io/blog"/>
 	<updated>{{ site.time | date_to_xmlschema }}</updated>
-	<id>http://hankquinlan.github.io/blog</id>
+	<id>http://dnarby.github.io/blog</id>
 	<author>
 		<name>Dave Narb</name>
 		<email>davenarby@gmail.com</email>
